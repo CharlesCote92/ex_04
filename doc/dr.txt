@@ -1,0 +1,30 @@
+ex04
+
+8/10
+
+ex_04.2.dart -> ex_04_2.dart
+...
+https://www.dartlang.org/articles/style-guide/
+
+4.1
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55,
+->
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
+
+4.3
+(-1) annees, mois, jours ?
+
+4.4
+
+CompoundInt -> compoundInt
+https://www.dartlang.org/articles/style-guide/
+
+Year 1: 33.0,  Year 2: 67.08899999999971,  
+->
+Year 1: 33.0  
+Year 2: 67.08899999999971 
+
+4.5
+(-1) Iteration -> iteration 
+https://www.dartlang.org/articles/style-guide/

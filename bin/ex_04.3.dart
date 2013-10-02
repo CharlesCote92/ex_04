@@ -6,8 +6,7 @@ main() {
   var timeseconds = Duration.inSeconds;
   var timemin = Duration.inMinutes;
   var timedays = Duration.inDays;
-  var timeyears = (timedays/365);
-  var timemonths = (timeyears*12);
+  var timeyears = (timedays / 365);
+  var timemonths = (timeyears * 12);
   print('Years: $timeyears, Months: $timemonths, Days: $timedays, Minutes: $timemin, Seconds: $timeseconds');
-
 }
